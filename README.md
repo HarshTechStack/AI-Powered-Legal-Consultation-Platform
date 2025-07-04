@@ -29,8 +29,8 @@ This platform offers:
 
 ## 🔗 Live Project Links
 
-- 🔹 **User Portal**: [https://lnkd.in/gvBtbxvv](https://lnkd.in/gvBtbxvv)
-- 🔹 **Lawyer Portal**: [https://lnkd.in/gXRik2y4](https://lnkd.in/gXRik2y4)
+- 🔹 **User Portal**: https://frontend.mynivan.com/
+- 🔹 **Lawyer Portal**: https://lawyerfrontend.mynivan.com/
 
 ---
 
