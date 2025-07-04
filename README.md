@@ -62,7 +62,8 @@ This platform offers:
 Thanks to the amazing team at **Nivan AI** for the mentorship, ownership, and opportunity to build something meaningful during my internship.
 
 ---
+---
 
 ## 📫 Let's Connect
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/vivekharsh) or explore more projects on [GitHub](https://github.com/HarshTechStack).
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/vivekharshcodecraft/) or explore more projects on [GitHub](https://github.com/HarshTechStack).
